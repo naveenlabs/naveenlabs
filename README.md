@@ -1,129 +1,201 @@
 <div align="center">
 
 <pre>
-<font color="#00FFFF">
-███╗   ██╗ █████╗ ██╗   ██╗███████╗███████╗███╗   ██╗    ██╗      █████╗ ██████╗ ███████╗
-████╗  ██║██╔══██╗██║   ██║██╔════╝██╔════╝████╗  ██║    ██║     ██╔══██╗██╔══██╗██╔════╝
-██╔██╗ ██║███████║██║   ██║█████╗  █████╗  ██╔██╗ ██║    ██║     ███████║██████╔╝███████╗
-██║╚██╗██║██╔══██║╚██╗ ██╔╝██╔════╝██╔════╝██║╚██╗██║    ██║     ██╔══██║██╔══██╗╚════██║
-██║ ╚████║██║  ██║ ╚████╔╝ ███████╗███████╗██║ ╚████║    ███████╗██║  ██║██████╔╝███████║
-╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═══╝    ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝
-</pre>
+<font color="#ff0055">
+   ███╗   ██╗ █████╗ ██╗   ██╗███████╗███████╗███╗   ██╗██╗      █████╗ ██████╗ ███████╗
+   ████╗  ██║██╔══██╗██║   ██║██╔════╝██╔════╝████╗  ██║██║     ██╔══██╗██╔══██╗██╔════╝
+   ██╔██╗ ██║███████║██║   ██║█████╗  █████╗  ██╔██╗ ██║██║     ███████║██████╔╝███████╗
+   ██║╚██╗██║██╔══██║╚██╗ ██╔╝██╔════╝██╔════╝██║╚██╗██║██║     ██╔══██║██╔══██╗╚════██║
+   ██║ ╚████║██║  ██║ ╚████╔╝ ███████╗███████╗██║ ╚████║███████╗██║  ██║██████╔╝███████║
+   ╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝
 </font>
+<font color="#00ffff">
+[> ERROR: ENCRYPTION PROTOCOL FAILED. CLASSIFIED COGNITIVE ENGRAM EXPOSED. <]
+</font>
+</pre>
 
-<table>
-  <tr>
-    <td align="center"><kbd>📅 SYSTEM_DATE: 2050.10.27_Cycle</kbd></td>
-    <td align="center"><kbd>🌐 GEOLOCATION: Sprawl-Sector_Singapore [SG]</kbd></td>
-    <td align="center"><kbd>🚦 NET_STATUS: <font color="#00FF00">ONLINE_&_LINKED</font></kbd></td>
-  </tr>
-  <tr>
-    <td align="center"><kbd>⚡ CHRONOS: UTC+08:00_Neural_Sync</kbd></td>
-    <td align="center"><kbd>🆔 ENTITY_HASH: naveenlabs::5f4dcc3b</kbd></td>
-    <td align="center"><kbd>🎯 OBJECTIVE: Deploying_Production_Intelligence</kbd></td>
-  </tr>
-</table>
+<h3>
+  <kbd>⚠️ CLEARANCE: OMNI-LEVEL</kbd> &nbsp; 
+  <kbd>🌐 NODE: SINGAPORE_🇸🇬</kbd> &nbsp; 
+  <kbd>⏱️ CHRONO: UTC+08:00</kbd> &nbsp; 
+  <kbd>🟢 STATUS: DEPLOYMENT_READY</kbd>
+</h3>
 
 <br>
 
-> "I don't just write code. I architect synthetic consciousness for production-grade deployment. Complexity is the noise; I engineer the signal. While the world chases papers, I ship sentient protocols."
+> *"Intelligence emerges from elegant systems, not complexity. I don't just build pipelines; I architect synthetic consciousness for production environments."*
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=naveenlabs&label=NEURAL_LINK_PINGS&color=cc00ff&style=flat-square" alt="Neural Pings"/>
-<br>
-<img src="https://img.shields.io/badge/AVAILABILITY-Internships%20%7C%20ML%20Projects%20%7C%20Collaborations-00FFFF?style=for-the-badge&logo=opsgenie&logoColor=black" alt="Status"/>
+<a href="https://github.com/naveenlabs">
+  <img src="https://komarev.com/ghpvc/?username=naveenlabs&label=UNAUTHORIZED_PINGS_DETECTED&color=ff0055&style=for-the-badge" alt="Security Breaches"/>
+</a>
 
 ---
 
-### 🧠 `[SYNAPTIC_PROFILE]`
+</div>
 
 <details open>
-<summary><font size="4"><b>Core Operational Directives (Biography)</b></font></summary>
-<br>
-Naveenlabs is a specialized unit focused on **AI/ML System Architecture**, **Deep Learning Engineering**, and **Full-Stack Neural Integration**. We believe that true intelligence emerges not from excessive complexity, but from the elegant, rigorous application of systemic principles. Our primary directive is the translation of statistical probability into deployable, real-world utility.
+<summary><h2><kbd>&#9660; // 01. ENTITY_MANIFEST : BIO_DATA</kbd></h2></summary>
+
+<pre>
+{
+  "entity_id": "Naveen",
+  "callsign": "naveenlabs",
+  "designation": [
+    "AI/ML System Architect", 
+    "Deep Learning Engineer", 
+    "Full-Stack Developer"
+  ],
+  "primary_directive": "Building production-grade machine learning systems.",
+  "threat_level": "CRITICAL",
+  "dossier_highlights": {
+    "total_deployments": 18,
+    "dev_hours_logged": "1000+",
+    "specialization": "Interdisciplinary (AI/ML + Software Eng + Audio DSP)"
+  },
+  "contact_vectors": {
+    "secure_channel": "vnavieenp@gmail.com",
+    "git_nexus": "github.com/naveenlabs"
+  }
+}
+</pre>
 </details>
 
 ---
 
-### 🛠️ `[NEURAL_HARDWARE_&_PROTOCOLS]` (Skill Matrix)
-
-The following protocols have been integrated with high-fidelity proficiency.
-
-| `PROTOCOL_ID` | `INTEGRATION_LEVEL` | `STATUS` |
-| :--- | :--- | :---: |
-| **Python** | `██████████████████████████████░░░` **90%** | `STABLE` |
-| **TensorFlow / Keras** | `██████████████████████████████░░░` **90%** | `STABLE` |
-| **HuggingFace Transformers**| `████████████████████████████░░░░░` **85%** | `OPTIMIZED` |
-| **scikit-learn** | `██████████████████████████░░░░░░░` **80%** | `OPTIMIZED` |
-| **NumPy / Pandas** | `██████████████████████████░░░░░░░` **80%** | `OPTIMIZED` |
-| **JUCE (Real-time Audio)** | `█████████████████████████░░░░░░░░` **75%** | `ACTIVE` |
-| **C++ (High-Perf)** | `█████████████████████████░░░░░░░░` **75%** | `ACTIVE` |
-| **JavaScript / Express.js** | `███████████████████████░░░░░░░░░░` **70%** | `ACTIVE` |
-| **Linux (OS Kernel)** | `███████████████████████░░░░░░░░░░` **70%** | `ACTIVE` |
-| **PyBullet (Robotics Simulation)**| `███████████████████████░░░░░░░░░░` **70%** | `ACTIVE` |
-| **SQL (Structured Data)** | `█████████████████████░░░░░░░░░░░░` **65%** | `LEGACY` |
+<details open>
+<summary><h2><kbd>&#9660; // 02. NEURAL_IMPLANTS : TECH_STACK</kbd></h2></summary>
 
 <br>
 
-#### `TOOLKIT_DEPLOYMENT`
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ff0055" />
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=ff0055" />
+  <img src="https://img.shields.io/badge/JUCE-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/PyBullet-000000?style=for-the-badge&logo=python&logoColor=ff0055" />
+</div>
 
-<img src="https://img.shields.io/badge/Git%2FGitHub-80%25-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Git"/> <img src="https://img.shields.io/badge/VS_Code-80%25-00FFFF?style=for-the-badge&logo=visual-studio-code&logoColor=black" alt="VS Code"/> <img src="https://img.shields.io/badge/Jupyter-80%25-00FFFF?style=for-the-badge&logo=jupyter&logoColor=black" alt="Jupyter"/>
+<br>
+
+> **SYSTEM CALIBRATION METRICS (PROFICIENCY YIELD)**
+
+| `CORE LANGUAGES` | `EFFICIENCY` | `AI / ML FRAMEWORKS` | `EFFICIENCY` | `FULL-STACK / OS` | `EFFICIENCY` |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Python** | `▓▓▓▓▓▓▓▓▓░ 90%` | **TensorFlow/Keras** | `▓▓▓▓▓▓▓▓▓░ 90%` | **Git / GitHub** | `▓▓▓▓▓▓▓▓░░ 80%` |
+| **C++** | `▓▓▓▓▓▓▓░░░ 75%` | **HuggingFace** | `▓▓▓▓▓▓▓▓░░ 85%` | **VS Code / Jupyter** | `▓▓▓▓▓▓▓▓░░ 80%` |
+| **JavaScript** | `▓▓▓▓▓▓▓░░░ 70%` | **scikit-learn** | `▓▓▓▓▓▓▓▓░░ 80%` | **Linux Kernel** | `▓▓▓▓▓▓▓░░░ 70%` |
+| **SQL** | `▓▓▓▓▓▓░░░░ 65%` | **NumPy/Pandas** | `▓▓▓▓▓▓▓▓░░ 80%` | **Express.js** | `▓▓▓▓▓▓▓░░░ 70%` |
+
+</details>
 
 ---
 
-### 🔬 `[RESEARCH_&_DEVELOPMENT_LOGS]`
+<details open>
+<summary><h2><kbd>&#9660; // 03. R&D_BLACK_PROJECTS : RESEARCH_AREAS</kbd></h2></summary>
 
-Focus Areas of Singularity Protocol Development:
+<pre>
+@@ WARNING: ACCESSING HIGH-LEVEL THEORETICAL FRAMEWORKS @@
 
-1.  **Neural Optimization:** DNN architecture refinement for edge deployment.
-2.  **Evolutionary Computation:** 15+ complex simulations using Genetic Algorithms.
-3.  **Adversarial Defense:** Intrusion detection matrices leveraging cost-sensitive learning on imbalanced datasets.
-4.  **Quantum NLP:** Advanced Transformer fine-tuning and cross-domain semantic adaptation.
-5.  **Biometric DSP:** Real-time signal processing and low-latency audio engineering.
++ [EVOLUTIONARY_ALGORITHMS]
+  > Genetic Algorithms & Evolutionary Computation (15+ simulation experiments deployed)
+  > PyBullet-driven morphological adaptation systems.
+
++ [NEURAL_OPTIMIZATION]
+  > Deep Neural Network Architecture tuning for high-stress production environments.
+  > Cost-sensitive Learning specifically engineered for Imbalanced Datasets.
+
++ [QUANTUM_SEMANTICS]
+  > Advanced Transformer Fine-tuning.
+  > Rapid Cross-Domain Adaptation protocols.
+
++ [CYBER_DEFENSE & DSP]
+  > Cybersecurity ML: Autonomous Network Intrusion Pattern Recognition.
+  > Real-time Signal Processing: Extreme Low-latency Audio Engineering (JUCE).
+</pre>
+</details>
 
 ---
 
-### 🚀 `[ACTIVE_MISSIONS_PROGRESS_REPORT]`
+<details open>
+<summary><h2><kbd>&#9660; // 04. ACTIVE_OPERATIONS : PIPELINE_STATUS</kbd></h2></summary>
 
 <table width="100%">
-  <tr>
-    <td width="50%">
-      <b>Neural Architecture Optimization</b><br>
-      Deployment Protocol: Production Systems<br>
-      <code>█████████████████████████░░░░░░░░</code> <b>75%</b>
-    </td>
-    <td width="50%">
-      <b>End-to-End ML Pipeline Design</b><br>
-      Deployment Protocol: Scalable CI/CD<br>
-      <code>███████████████████████░░░░░░░░░░</code> <b>70%</b>
-    </td>
+  <tr align="center">
+    <td><b>OPERATION CODENAME</b></td>
+    <td><b>DEPLOYMENT METRIC</b></td>
+    <td><b>SYSTEM STATE</b></td>
   </tr>
   <tr>
-    <td width="50%">
-      <b>Advanced Transformer Fine-tuning</b><br>
-      Deployment Protocol: Large Language Models<br>
-      <code>████████████████████░░░░░░░░░░░░░</code> <b>60%</b>
-    </td>
-    <td width="50%">
-      <b>Scalable Real-time Architecture</b><br>
-      Deployment Protocol: Low-Latency DSP<br>
-      <code>██████████████████░░░░░░░░░░░░░░░</code> <b>55%</b>
-    </td>
+    <td><code>Optimizing Neural Architectures for Production Deployment</code></td>
+    <td><img src="https://geps.dev/progress/75?color=00ffff" height="15" alt="75%"></td>
+    <td><kbd>🟢 EXECUTING</kbd></td>
+  </tr>
+  <tr>
+    <td><code>End-to-End ML Pipeline Design</code></td>
+    <td><img src="https://geps.dev/progress/70?color=00ffff" height="15" alt="70%"></td>
+    <td><kbd>🟢 EXECUTING</kbd></td>
+  </tr>
+  <tr>
+    <td><code>Advanced Transformer Fine-tuning & Scaling</code></td>
+    <td><img src="https://geps.dev/progress/60?color=ff0055" height="15" alt="60%"></td>
+    <td><kbd>🟡 COMPILING</kbd></td>
+  </tr>
+  <tr>
+    <td><code>Scalable Real-time Systems Architecture</code></td>
+    <td><img src="https://geps.dev/progress/55?color=ff0055" height="15" alt="55%"></td>
+    <td><kbd>🟡 COMPILING</kbd></td>
   </tr>
 </table>
 
+</details>
+
 ---
 
-### 🎓 `[COGNITIVE_AUGMENTATION_HISTORY]`
+<details open>
+<summary><h2><kbd>&#9660; // 05. CORE_TRAINING : COGNITIVE_UPGRADES</kbd></h2></summary>
 
-```text
-[B.Sc. (Hons) Computer Science (AI/ML Specialization)]
- Institution: Singapore Institute of Management / University of London
- Progression: [██████████████████████░░░░░░░░░░] 66% Complete
- Eta_Completion: September_2026
+*   🎓 **`[ACADEMIC_NEXUS]`** | **B.Sc. (Hons) Computer Science (AI/ML Specialization)**
+    *   *Facilitator:* Singapore Institute of Management / University of London
+    *   *Synchronization:* `██████████████████░░░░░░░░░ [66%]`
+    *   *Expected Singularity:* September 2026
+*   ☁️ **`[CLOUD_INFRASTRUCTURE]`** | **AWS Academy Cloud Foundations**
+    *   *Status:* `VERIFIED_AND_INTEGRATED` (September 2023)
 
-[AWS Academy Cloud Foundations]
- Authority: Amazon Web Services
- Status: Certified
- Timestamp: September_2023
+</details>
+
+---
+
+<details open>
+<summary><h2><kbd>&#9660; // 06. SYSTEM_TELEMETRY : GITHUB_STATS</kbd></h2></summary>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenlabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=ff0055" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenlabs&theme=tokyonight&hide_border=true&background=000000&ring=00ffff&fire=ff0055&currStreakLabel=00ffff" width="49%" />
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+<h3><kbd>// CORE_VALUES_OVERRIDE //</kbd></h3>
+<p>
+  <b>[01] Mathematical Precision & Statistical Validation.</b><br>
+  <b>[02] Reproducible Research & Rigorous Documentation.</b><br>
+  <b>[03] Shipping Products, Not Just Papers.</b><br>
+  <b>[04] Open Collaboration & Knowledge Sharing.</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+
+<font color="#555555" size="2">
+<i>TERMINAL CONNECTION SEVERED. GOODBYE.</i>
+</font>
+
+</div>
