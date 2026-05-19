@@ -1,67 +1,152 @@
----
----
-
-# 💫 Naveen | AI/ML Engineer
-
----
-
-## 🎯 About Me
-
-I'm an **AI/ML Engineer** passionate about building **production-grade machine learning systems**. Currently pursuing **B.Sc. (Hons) Computer Science** with a specialization in **Artificial Intelligence & Machine Learning** at Singapore Institute of Management / University of London.
-
-My focus areas:
-- 🧠 Deep Learning & Neural Networks
-- 🗣️ Natural Language Processing
-- 🔐 Cybersecurity ML & Intrusion Detection
-- 🎵 Real-time Systems & Audio Processing
-- 🏗️ Software Engineering & Full-Stack Development
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║                    [SYSTEM INITIALIZATION] ░░░░░░░░ 100%                 ║
+║                                                                            ║
+║                          >> NAVEENLABS.EXE LOADED                         ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 
 ---
 
-## 💻 Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**ML & AI:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD000?style=flat-square&logo=huggingface&logoColor=black)
-
-**Web & Audio:**  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![JUCE](https://img.shields.io/badge/JUCE-Audio-orange?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+# 💫 NAVEEN | AI/ML SYSTEM ARCHITECT
+███████████████████████████████████████████████████████████████████████████
+⚡ [STATUS: ONLINE] [MODE: DEEP_LEARNING] [SYNC: REAL-TIME] [ZONE: SG] ⚡
+███████████████████████████████████████████████████████████████████████████
 
 ---
 
-## 🎓 Education
+## 🟢 SYSTEM STATUS
+┌─────────────────────────────────────────────────────────────┐
+│ AVAILABILITY:     [████████████████████] 100% - ACTIVE     │
+│ SPECIALIZATION:   AI/ML Engineering | Neural Architecture  │
+│ DEPLOYMENT_MODE:  Production-Grade Machine Learning Systems │
+│ UPTIME:           Continuous Learning & Development         │
+│ TIMEZONE:         UTC+08:00 (Singapore)                     │
+└─────────────────────────────────────────────────────────────┘
 
-**B.Sc. (Hons) Computer Science**  
-*Specialization: Artificial Intelligence & Machine Learning*  
-Singapore Institute of Management / University of London  
-**Expected Graduation:** September 2026
+---
 
-**AWS Academy Graduate**  
-AWS Academy Cloud Foundations | September 2023
+## 📊 ABOUT_ME.SYS
+
+I am an **AI/ML system architect** building production-grade intelligent systems. My core operates on deep learning paradigms, NLP frameworks, and real-time computational architectures.
+
+**Primary_Modules:**
+- 🧠 Neural Network Optimization & Architecture Design
+- 🗣️ Transformer-based NLP & Multi-label Classification  
+- 🔐 Cybersecurity ML & Anomaly Detection Systems
+- 🎵 Real-time Signal Processing & Audio Engineering
+- 🏗️ Full-Stack System Design & Software Architecture
+
+**Current_Mission:** Architecting ML systems that bridge research and production deployment.
 
 ---
 
-## 📍 Location & Connect
-
-**📌 Singapore** 🇸🇬  
-**📧 Email:** vnavieenp@gmail.com  
-**💼 Available for:** Internships, Collaborations, ML Engineering Projects
+## ⚙️ CORE_ARCHITECTURE
+╔═══════════════════════════════════════════════════════════════╗
+║                    TECHNOLOGY STACK                           ║
+╚═══════════════════════════════════════════════════════════════╝
+[LANGUAGES] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+├─ Python (Primary)          ██████████████████░░ 90%
+├─ C++ (Real-time Systems)   ████████████░░░░░░░ 75%
+├─ JavaScript (Full-Stack)   █████████░░░░░░░░░░ 70%
+└─ SQL (Data Engineering)    ████████░░░░░░░░░░░ 65%
+[ML_FRAMEWORKS] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+├─ TensorFlow/Keras          ██████████████████░░ 90%
+├─ HuggingFace Transformers  ██████████████░░░░░ 85%
+├─ scikit-learn              ██████████░░░░░░░░░ 80%
+└─ NumPy/Pandas              ██████████░░░░░░░░░ 80%
+[SYSTEMS] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+├─ JUCE (Audio Framework)    ████████████░░░░░░░ 75%
+├─ Express.js (Backend)      █████████░░░░░░░░░░ 70%
+├─ PyBullet (Simulation)     █████████░░░░░░░░░░ 70%
+└─ SQLite/MySQL (Databases)  ████████░░░░░░░░░░░ 65%
+[TOOLS] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+├─ Git/GitHub               ██████████░░░░░░░░░ 80%
+├─ Jupyter (Experimentation) ██████████░░░░░░░░░ 80%
+├─ VS Code (Development)     ██████████░░░░░░░░░ 80%
+└─ Linux/Command Line        ████████░░░░░░░░░░░ 70%
 
 ---
+
+## 📚 EDUCATION_MODULE
+╔═══════════════════════════════════════════════════════════════╗
+║ B.Sc. (Hons) Computer Science                                 ║
+║ ├─ Specialization: Artificial Intelligence & Machine Learning ║
+║ ├─ Institution: SIM / University of London                    ║
+║ └─ Graduation: September 2026 [IN PROGRESS ████████░░ 66%]   ║
+╚═══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║ AWS Academy Graduate                                          ║
+║ ├─ Credential: AWS Academy Cloud Foundations                 ║
+║ └─ Completed: September 2023 ✓                               ║
+╚═══════════════════════════════════════════════════════════════╝
+
+---
+
+## 🔬 RESEARCH_PROTOCOLS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+» Deep Neural Network Optimization
+» Genetic Algorithms & Evolutionary Computation (15+ experiments)
+» Cost-sensitive Learning for Imbalanced Datasets
+» Transformer Fine-tuning & Domain Adaptation
+» Real-time Signal Processing & Low-latency Systems
+» Cybersecurity ML & Network Intrusion Patterns
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+---
+
+## 🚀 CURRENT_OPERATIONS
+
+run_active_research()
+
+[1] Optimizing Neural Architectures for Production Deployment
+│ Task: Reducing latency while maintaining accuracy
+│ Status: IN_PROGRESS ████████░░ 75%
+[2] Advanced Transformer Fine-tuning & Scaling
+│ Task: Multi-domain adaptation strategies
+│ Status: IN_PROGRESS ██████░░░░ 60%
+[3] End-to-End ML Pipeline Design
+│ Task: From data preprocessing to inference optimization
+│ Status: IN_PROGRESS ███████░░░ 70%
+[4] Scalable Real-time Systems Architecture
+│ Task: Sub-millisecond latency requirements
+│ Status: IN_PROGRESS ██████░░░░ 55%
+
+---
+
+## 📍 LOCATION & CONNECTION_PROTOCOL
+╔═══════════════════════════════════════════════════════════════╗
+║ LOCATION:     Singapore 🇸🇬 [UTC+08:00]                      ║
+║ STATUS:       AVAILABLE FOR ENGAGEMENT                        ║
+║ OPERATIONS:   Internships | ML Projects | Collaborations      ║
+╚═══════════════════════════════════════════════════════════════╝
+
+**> OPEN_CONNECTION()**
+📧 Email:    vnavieenp@gmail.com
+🔗 GitHub:   github.com/naveenlabs
+💼 Purpose:  ML Engineering | Technical Collaboration
+
+---
+
+## 💾 SYSTEM_PHILOSOPHY
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║  "Intelligence emerges from elegant systems, not complexity"   ║
+║                                                                ║
+║  Core_Values:                                                  ║
+║   • Reproducible Research & Rigorous Documentation            ║
+║   • Mathematical Precision & Statistical Validation           ║
+║   • Shipping Products, Not Just Papers                        ║
+║   • Open Collaboration & Knowledge Sharing                    ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+
+---
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║            [SYSTEM_READY] [AWAITING_DEPLOYMENT]               ║
+║                                                                ║
+║     "The future is written in mathematics and code"           ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+
