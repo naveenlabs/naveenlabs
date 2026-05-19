@@ -1,219 +1,120 @@
-# 🚀 NAVEEN | AI/ML SYSTEM ARCHITECT
-
 <div align="center">
 
-![Banner](https://img.shields.io/badge/STATUS-🟢%20ONLINE-brightgreen?style=for-the-badge&logo=github)
-![Mode](https://img.shields.io/badge/MODE-DEEP_LEARNING-blue?style=for-the-badge)
-![Zone](https://img.shields.io/badge/ZONE-SINGAPORE%20🇸🇬-yellow?style=for-the-badge)
-![Uptime](https://img.shields.io/badge/UPTIME-24/7%20ACTIVE-success?style=for-the-badge)
+<pre>
+╔═════════════════════════════════════════════════════════════════════╗
+║                                                                     ║
+║  [SYSTEM INITIALIZATION...]                                         ║
+║  > USER: NAVEENLABS                                                 ║
+║  > LOCATION: SINGAPORE 🇸🇬 [UTC+08:00]                               ║
+║  > STATUS: 🟢 ONLINE & AVAILABLE FOR DEPLOYMENT                     ║
+║                                                                     ║
+╚═════════════════════════════════════════════════════════════════════╝
+</pre>
 
+### 💻 AI/ML System Architect | 🧠 Deep Learning Engineer | 🌐 Full-Stack Developer
+
+*"Building production-grade machine learning systems."*  
+*"Intelligence emerges from elegant systems, not complexity."*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naveenlabs&label=SYSTEM+PINGS&color=0ff&style=flat-square" alt="Visitor Counter"/>
+</p>
+
+---
+
+</div>
+
+### 📡 `[SYS_INFO_&_DIRECTIVES]`
+
+*   **Current Status:** Available for Internships, ML Projects, and Collaborations
+*   **Interdisciplinary Matrix:** AI/ML ⚡ Software Engineering ⚡ Audio DSP
+*   **Operational Output:** 18+ Total Projects Completed | 1000+ Hours in Dev
+
+---
+
+### 🧰 `[CORE_TECHNOLOGIES_&_PROTOCOLS]`
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+<br>
+
+| 🔧 Language / Framework | 📊 Proficiency Level | | 🛠 Toolkit / Lib | 📊 Proficiency Level |
+| :--- | :--- | :--- | :--- | :--- |
+| **Python** | `█████████░ 90%` | | **TensorFlow/Keras** | `█████████░ 90%` |
+| **C++** | `███████░░░ 75%` | | **HuggingFace** | `████████░░ 85%` |
+| **JavaScript** | `███████░░░ 70%` | | **scikit-learn** | `████████░░ 80%` |
+| **SQL** | `██████░░░░ 65%` | | **NumPy/Pandas** | `████████░░ 80%` |
+| **JUCE** | `███████░░░ 75%` | | **PyBullet** | `███████░░░ 70%` |
+| **Express.js** | `███████░░░ 70%` | | **Jupyter / VS Code** | `████████░░ 80%` |
+
+---
+
+### 🔬 `[R_&_D_OPERATIONS]`
+
+My research and primary focus areas bridge the gap between theoretical ML and high-performance production environments:
+
+*   **🧬 Evolutionary Computation:** Genetic Algorithms & Robotics (15+ simulation experiments).
+*   **🧠 Deep Learning Optimization:** Neural network architecture tuning for production & edge deployment.
+*   **🗣️ NLP & Transformers:** Advanced fine-tuning and domain adaptation.
+*   **🛡️ Cybersecurity ML:** Network intrusion detection patterns and cost-sensitive learning for imbalanced datasets.
+*   **🔊 Real-time Systems:** Low-latency architecture, signal processing, and audio engineering.
+
+---
+
+### 🚀 `[ACTIVE_MISSIONS_//_PROGRESS]`
+
+| Mission Objective | Status | Completion Metric |
+| :--- | :---: | :--- |
+| **Optimizing Neural Architectures for Production Deployment** | `RUNNING` | `███████░░░ 75%` |
+| **End-to-End ML Pipeline Design** | `RUNNING` | `███████░░░ 70%` |
+| **Advanced Transformer Fine-tuning & Scaling** | `RUNNING` | `██████░░░░ 60%` |
+| **Scalable Real-time Systems Architecture** | `RUNNING` | `█████░░░░░ 55%` |
+
+---
+
+### 🎓 `[DATA_BANKS_//_EDUCATION]`
+
+| Certification / Degree | Institution | Progress / Status |
+| :--- | :--- | :--- |
+| **B.Sc. (Hons) Computer Science** *(AI/ML Spec)* | SIM / University of London | Expected Sep 2026 (`██████░░░░ 66%`) |
+| **AWS Academy Cloud Foundations** | Amazon Web Services | Completed (`Sep 2023`) |
+
+---
+
+### 📊 `[SYSTEM_TELEMETRY]`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenlabs&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=0ff" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenlabs&theme=synthwave&hide_border=true&background=0D1117&ring=0ff&fire=0ff" width="49%" />
 </div>
 
 ---
 
-## 🎯 SYSTEM_INITIALIZATION
+### 📜 `[CORE_DIRECTIVES_//_VALUES]`
 
-<div align="center">
-████████████████████████████████████████ 100%
-[SYSTEM BOOTING] >> NAVEENLABS.EXE LOADED ✓
-
-⚡ **Building Production-Grade ML Systems** ⚡
-
-</div>
+1.  **Mathematical Precision & Statistical Validation:** Engineering built on verifiable facts, not guesses.
+2.  **Reproducible Research:** Comprehensive, rigorous documentation across all repositories.
+3.  **Delivery Focus:** Shipping functional, hands-on products that interact with real-world datasets, rather than isolating ideas to papers.
+4.  **Open Source Protocol:** Committed to open collaboration and continuous knowledge sharing.
 
 ---
 
-## 📊 ABOUT_ME.SYS
+### 📥 `[COMM_CHANNELS]`
+
+Ready to initialize a new project or collaboration? Establish a connection:
+
+*   📧 **Email Transmission:** [vnavieenp@gmail.com](mailto:vnavieenp@gmail.com)
+*   🐙 **GitHub Network:** [github.com/naveenlabs](https://github.com/naveenlabs)
 
 <div align="center">
-
-I am an **AI/ML System Architect** 🧠 building **intelligent systems at scale**.
-
-My neural networks don't just learn—they **dominate**.
-FROM: Deep Learning Paradigms
-TO: Real-time Production Systems
-WITH: Neural Network Optimization
-
-</div>
-
-### Primary_Modules:
-
-<div align="center">
-
-![Deep Learning](https://img.shields.io/badge/🧠%20Deep%20Learning-Neural%20Architecture-ff6b6b?style=flat-square&logo=tensorflow)
-![NLP](https://img.shields.io/badge/🗣️%20NLP-Transformers-4ecdc4?style=flat-square&logo=huggingface)
-![Cybersecurity](https://img.shields.io/badge/🔐%20Cybersecurity-Threat%20Detection-ffe66d?style=flat-square)
-![Audio](https://img.shields.io/badge/🎵%20Audio-Real-time%20Systems-a8dadc?style=flat-square)
-![Software](https://img.shields.io/badge/🏗️%20Software-Full-Stack-457b9d?style=flat-square)
-
-</div>
-
----
-
-## ⚙️ CORE_ARCHITECTURE
-
-<div align="center">
-
-### TECHNOLOGY STACK
-
-</div>
-
-**🔵 LANGUAGES**
-Python (Primary)     ████████████████████░░░░░░░░░░░░░░ 90%
-C++ (Real-time)      ███████████████░░░░░░░░░░░░░░░░░░░ 75%
-JavaScript (Web)     ██████████████░░░░░░░░░░░░░░░░░░░░ 70%
-SQL (Data)           ███████████░░░░░░░░░░░░░░░░░░░░░░░ 65%
-
-**🟠 ML & AI FRAMEWORKS**
-TensorFlow/Keras     ████████████████████░░░░░░░░░░░░░░ 90%
-HuggingFace          █████████████████░░░░░░░░░░░░░░░░░ 85%
-scikit-learn         ████████████████░░░░░░░░░░░░░░░░░░ 80%
-NumPy/Pandas         ████████████████░░░░░░░░░░░░░░░░░░ 80%
-
-**🟣 SYSTEMS & TOOLS**
-JUCE (Audio)         ███████████████░░░░░░░░░░░░░░░░░░░ 75%
-Express.js           ██████████████░░░░░░░░░░░░░░░░░░░░ 70%
-PyBullet (Sim)       ██████████████░░░░░░░░░░░░░░░░░░░░ 70%
-Git/GitHub           ████████████████░░░░░░░░░░░░░░░░░░ 80%
-
-<div align="center">
-
-### TECH STACK BADGES
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD000?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
----
-
-## 📚 EDUCATION_MODULE
-
-<div align="center">
-
-### 🎓 B.Sc. (Hons) Computer Science
-**Specialization:** Artificial Intelligence & Machine Learning  
-**Institution:** Singapore Institute of Management / University of London  
-**Graduation:** September 2026 ⏳
-
-### ☁️ AWS Academy Graduate
-**Credential:** AWS Academy Cloud Foundations  
-**Completed:** September 2023 ✅  
-[View Credential](https://www.credly.com/go/5KE2qm48)
-
-</div>
-
----
-
-## 🔬 RESEARCH_PROTOCOLS
-
-<div align="center">
-═══════════════════════════════════════════════════════
-» Deep Neural Network Optimization
-» Genetic Algorithms & Evolutionary Computation (15+)
-» Cost-sensitive Learning for Imbalanced Datasets
-» Transformer Fine-tuning & Domain Adaptation
-» Real-time Signal Processing & Low-latency Systems
-» Cybersecurity ML & Network Intrusion Patterns
-═══════════════════════════════════════════════════════
-
-</div>
-
----
-
-## 🚀 CURRENT_OPERATIONS
-
-<div align="center">
-
-| Operation | Task | Progress |
-|-----------|------|----------|
-| **[1]** Neural Architecture Optimization | Reduce latency, maintain accuracy | `████████░░ 75%` |
-| **[2]** Transformer Fine-tuning | Multi-domain adaptation | `██████░░░░ 60%` |
-| **[3]** ML Pipeline Design | End-to-end optimization | `███████░░░ 70%` |
-| **[4]** Real-time Systems | Sub-millisecond latency | `██████░░░░ 55%` |
-
-</div>
-
----
-
-## 📍 LOCATION & CONNECTION_PROTOCOL
-
-<div align="center">
-
-![Location](https://img.shields.io/badge/📍%20Singapore-UTC+08:00-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-AVAILABLE-brightgreen?style=for-the-badge)
-![Collaborate](https://img.shields.io/badge/Collaborate-YES-blue?style=for-the-badge)
-
-### > OPEN_CONNECTION()
-
-📧 **Email:** [vnavieenp@gmail.com](mailto:vnavieenp@gmail.com)  
-🔗 **GitHub:** [github.com/naveenlabs](https://github.com/naveenlabs)  
-💼 **Available for:** Internships • ML Projects • Technical Collaborations
-
-</div>
-
----
-
-## 💎 SYSTEM_PHILOSOPHY
-
-<div align="center">
-
-> *"Intelligence emerges from elegant systems, not complexity."*
-
-### Core_Values:
-
-![Research](https://img.shields.io/badge/Reproducible-Research-blue?style=flat-square)
-![Precision](https://img.shields.io/badge/Mathematical-Precision-red?style=flat-square)
-![Products](https://img.shields.io/badge/Ship-Products-green?style=flat-square)
-![Collaboration](https://img.shields.io/badge/Open-Collaboration-yellow?style=flat-square)
-
-</div>
-
----
-
-## 📊 STATS
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/naveenlabs?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/naveenlabs?style=social)
-
-| Metric | Value |
-|--------|-------|
-| **Total Projects** | 18 |
-| **AI/ML Projects** | 8 |
-| **Total Hours** | 1000+ |
-| **Primary Focus** | Production ML Systems |
-| **Current Semester** | Final Year (66%) |
-
-</div>
-
----
-
-<div align="center">
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║            [SYSTEM_READY] [AWAITING_DEPLOYMENT]           ║
-║                                                            ║
-║     "The future is written in mathematics and code"       ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-
-**⭐ Star this repo if you find it interesting!**
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=naveenlabs.naveenlabs)
-
+  <sub><i>"End of Data Stream. Session Remains Active."</i></sub>
 </div>
