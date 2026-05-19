@@ -52,7 +52,7 @@ AWS Cloud Foundations | September 2023 ✅
 
 ## 📍 Connect
 
-📧 **Email:** vnavieenp@gmail.com  
+📧 **Email:** naveenwork1718@gmail.com  
 🔗 **GitHub:** github.com/naveenlabs  
 💼 **Looking for:** Internships • ML Projects • Collaborations
 
