@@ -1,28 +1,6 @@
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║                    [SYSTEM INITIALIZATION] ░░░░░░░░ 100%                 ║
-║                                                                            ║
-║                          >> NAVEENLABS.EXE LOADED                         ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
-
----
-
 # 💫 NAVEEN | AI/ML SYSTEM ARCHITECT
-███████████████████████████████████████████████████████████████████████████
-⚡ [STATUS: ONLINE] [MODE: DEEP_LEARNING] [SYNC: REAL-TIME] [ZONE: SG] ⚡
-███████████████████████████████████████████████████████████████████████████
 
----
-
-## 🟢 SYSTEM STATUS
-┌─────────────────────────────────────────────────────────────┐
-│ AVAILABILITY:     [████████████████████] 100% - ACTIVE     │
-│ SPECIALIZATION:   AI/ML Engineering | Neural Architecture  │
-│ DEPLOYMENT_MODE:  Production-Grade Machine Learning Systems │
-│ UPTIME:           Continuous Learning & Development         │
-│ TIMEZONE:         UTC+08:00 (Singapore)                     │
-└─────────────────────────────────────────────────────────────┘
+> **STATUS:** 🟢 ONLINE | **MODE:** DEEP_LEARNING | **ZONE:** Singapore 🇸🇬
 
 ---
 
@@ -41,112 +19,28 @@ I am an **AI/ML system architect** building production-grade intelligent systems
 
 ---
 
-## ⚙️ CORE_ARCHITECTURE
-╔═══════════════════════════════════════════════════════════════╗
-║                    TECHNOLOGY STACK                           ║
-╚═══════════════════════════════════════════════════════════════╝
-[LANGUAGES] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-├─ Python (Primary)          ██████████████████░░ 90%
-├─ C++ (Real-time Systems)   ████████████░░░░░░░ 75%
-├─ JavaScript (Full-Stack)   █████████░░░░░░░░░░ 70%
-└─ SQL (Data Engineering)    ████████░░░░░░░░░░░ 65%
-[ML_FRAMEWORKS] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-├─ TensorFlow/Keras          ██████████████████░░ 90%
-├─ HuggingFace Transformers  ██████████████░░░░░ 85%
-├─ scikit-learn              ██████████░░░░░░░░░ 80%
-└─ NumPy/Pandas              ██████████░░░░░░░░░ 80%
-[SYSTEMS] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-├─ JUCE (Audio Framework)    ████████████░░░░░░░ 75%
-├─ Express.js (Backend)      █████████░░░░░░░░░░ 70%
-├─ PyBullet (Simulation)     █████████░░░░░░░░░░ 70%
-└─ SQLite/MySQL (Databases)  ████████░░░░░░░░░░░ 65%
-[TOOLS] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-├─ Git/GitHub               ██████████░░░░░░░░░ 80%
-├─ Jupyter (Experimentation) ██████████░░░░░░░░░ 80%
-├─ VS Code (Development)     ██████████░░░░░░░░░ 80%
-└─ Linux/Command Line        ████████░░░░░░░░░░░ 70%
+## ⚙️ TECH STACK
+
+| Category | Technologies | Proficiency |
+|----------|--------------|-------------|
+| **Languages** | Python, C++, JavaScript, SQL | 90%, 75%, 70%, 65% |
+| **ML/AI** | TensorFlow/Keras, HuggingFace, scikit-learn, NumPy | 90%, 85%, 80%, 80% |
+| **Systems** | JUCE, Express.js, PyBullet, SQLite/MySQL | 75%, 70%, 70%, 65% |
+| **Tools** | Git/GitHub, Jupyter, VS Code, Linux | 80%, 80%, 80%, 70% |
 
 ---
 
 ## 📚 EDUCATION_MODULE
-╔═══════════════════════════════════════════════════════════════╗
-║ B.Sc. (Hons) Computer Science                                 ║
-║ ├─ Specialization: Artificial Intelligence & Machine Learning ║
-║ ├─ Institution: SIM / University of London                    ║
-║ └─ Graduation: September 2026 [IN PROGRESS ████████░░ 66%]   ║
-╚═══════════════════════════════════════════════════════════════╝
-╔═══════════════════════════════════════════════════════════════╗
-║ AWS Academy Graduate                                          ║
-║ ├─ Credential: AWS Academy Cloud Foundations                 ║
-║ └─ Completed: September 2023 ✓                               ║
-╚═══════════════════════════════════════════════════════════════╝
+
+**B.Sc. (Hons) Computer Science**
+- Specialization: Artificial Intelligence & Machine Learning
+- Institution: SIM / University of London
+- Graduation: September 2026 ⏳
+
+**AWS Academy Graduate**
+- Credential: AWS Academy Cloud Foundations
+- Completed: September 2023 ✅
 
 ---
 
-## 🔬 RESEARCH_PROTOCOLS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-» Deep Neural Network Optimization
-» Genetic Algorithms & Evolutionary Computation (15+ experiments)
-» Cost-sensitive Learning for Imbalanced Datasets
-» Transformer Fine-tuning & Domain Adaptation
-» Real-time Signal Processing & Low-latency Systems
-» Cybersecurity ML & Network Intrusion Patterns
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
----
-
-## 🚀 CURRENT_OPERATIONS
-
-run_active_research()
-
-[1] Optimizing Neural Architectures for Production Deployment
-│ Task: Reducing latency while maintaining accuracy
-│ Status: IN_PROGRESS ████████░░ 75%
-[2] Advanced Transformer Fine-tuning & Scaling
-│ Task: Multi-domain adaptation strategies
-│ Status: IN_PROGRESS ██████░░░░ 60%
-[3] End-to-End ML Pipeline Design
-│ Task: From data preprocessing to inference optimization
-│ Status: IN_PROGRESS ███████░░░ 70%
-[4] Scalable Real-time Systems Architecture
-│ Task: Sub-millisecond latency requirements
-│ Status: IN_PROGRESS ██████░░░░ 55%
-
----
-
-## 📍 LOCATION & CONNECTION_PROTOCOL
-╔═══════════════════════════════════════════════════════════════╗
-║ LOCATION:     Singapore 🇸🇬 [UTC+08:00]                      ║
-║ STATUS:       AVAILABLE FOR ENGAGEMENT                        ║
-║ OPERATIONS:   Internships | ML Projects | Collaborations      ║
-╚═══════════════════════════════════════════════════════════════╝
-
-**> OPEN_CONNECTION()**
-📧 Email:    vnavieenp@gmail.com
-🔗 GitHub:   github.com/naveenlabs
-💼 Purpose:  ML Engineering | Technical Collaboration
-
----
-
-## 💾 SYSTEM_PHILOSOPHY
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  "Intelligence emerges from elegant systems, not complexity"   ║
-║                                                                ║
-║  Core_Values:                                                  ║
-║   • Reproducible Research & Rigorous Documentation            ║
-║   • Mathematical Precision & Statistical Validation           ║
-║   • Shipping Products, Not Just Papers                        ║
-║   • Open Collaboration & Knowledge Sharing                    ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-
----
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║            [SYSTEM_READY] [AWAITING_DEPLOYMENT]               ║
-║                                                                ║
-║     "The future is written in mathematics and code"           ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-
+## 🔬 RESEARCH PROTOCOLS
