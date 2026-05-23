@@ -127,21 +127,15 @@ Learning fast. Sharing faster. Either direction works. I'm built for both no lie
 </tr>
 </table>
 
----
-
-## `> ACTIVITY`
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenlabs&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00f0ff&icon_color=ff0040&text_color=ffffff&include_all_commits=true&count_private=true)
+## **≡ ACTIVITY ≡**
 
-</div>
+![GitHub Contributions](https://img.shields.io/badge/CONTRIBUTIONS-ACTIVE-00f0ff?style=for-the-badge&labelColor=000000)
+![Commits](https://img.shields.io/badge/COMMITS-CONSISTENT-ff0040?style=for-the-badge&labelColor=000000)
+![Projects](https://img.shields.io/badge/PROJECTS-12_SHIPPED-9d00ff?style=for-the-badge&labelColor=000000)
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenlabs&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00f0ff&text_color=ffffff)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveenlabs&theme=radical&hide_border=true&background=000000&ring=00f0ff&fire=ff0040&currStreakLabel=00f0ff)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveenlabs&theme=radical&hide_border=true&background=000000&ring=00f0ff&fire=ff0040&currStreakLabel=00f0ff)
 
 </div>
 
@@ -149,6 +143,12 @@ Learning fast. Sharing faster. Either direction works. I'm built for both no lie
 
 <div align="center">
 
-`◤ END ◢`
+## **≡ FINAL TRANSMISSION ≡**
+
+I don't write code. I build the future. No cap fr fr.
+
+`◤ LET'S GO ◢`
 
 </div>
+
+---
