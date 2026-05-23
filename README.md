@@ -52,17 +52,80 @@ I'm not just building the future. I'm building a future that's absolutely mental
 
 ---
 
-## `> INTERESTS`
+<div align="center">
 
-Gaming • Music Production • Research • System Design
+## **≡ INTERESTS & OPEN FOR ≡**
+
+</div>
 
 ---
 
-## `> OPEN FOR`
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-[![Collaboration](https://img.shields.io/badge/COLLABORATION-LET'S_BUILD-00f0ff?style=flat-square&labelColor=000000)](https://github.com/naveenlabs)
-[![Opportunities](https://img.shields.io/badge/OPPORTUNITIES-BRING_THEM-ff0040?style=flat-square&labelColor=000000)](mailto:your.email@example.com)
-[![Discussion](https://img.shields.io/badge/DISCUSSION-ALWAYS-9d00ff?style=flat-square&labelColor=000000)](https://linkedin.com)
+## 🧠 INTERESTS
+
+### 💪 Gym Bro Cycle
+
+```diff
++ Bulk.
+- Cut.
++ Regret.
+- Repeat.
+```
+
+Endless cycle of gaining and losing the same 5 pounds like it's a mandatory side quest designed by Satan himself. White Monster probably replacing my blood cells at this point. Peak gym delusion. Peak discipline. Zero peace. No cap fr fr.
+
+---
+
+### 🏏 Cricket Fanatic
+
+Emotionally attached to cricket like it's a religion. Humanity peaked at this sport no cap. Professional backseat analyst during every match. Yelling at the screen like they can hear me. Playing skills? Respectfully mid. Watching skills? Hall of fame energy no lie.
+
+---
+
+### 🎬 Movies & Series
+
+Breaking Bad mentality permanently installed in my brain bestie. 3AM movie marathons hitting different. Series binges that destroy sleep schedules fr fr. Entire weekends sacrificed to fictional universes because reality occasionally lacks cinematic quality and that's giving boring energy.
+
+</td>
+<td width="50%" valign="top">
+
+## 🚀 OPEN FOR
+
+### 🤝 Collaboration
+
+Building ambitious projects with people equally unhinged about creating cool stuff. Let's make something that goes hard fr fr.
+
+---
+
+### 💼 Opportunities
+
+AI/ML internships, freelance work, contracts, startup projects, research, development. If it involves building something meaningful and unhinged, I'm listening bestie.
+
+---
+
+### 🧠 Discussion
+
+Code, AI, cricket debates (I will argue), gym science, movies, startups, tech, or the slow collapse of human attention spans through TikTok. Literally anything. No cap.
+
+---
+
+### 📚 Mentorship
+
+Learning fast. Sharing faster. Either direction works. I'm built for both no lie.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-HIT_ME_UP-ff0040?style=for-the-badge&labelColor=0d1117)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-9d00ff?style=for-the-badge&labelColor=0d1117)](https://linkedin.com)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
