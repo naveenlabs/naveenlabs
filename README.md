@@ -2,7 +2,7 @@
   <img src="Assets/banner-1.gif" width="100%" height="auto" alt="Banner">
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -13,10 +13,6 @@
 ```
 
 </div>
-
-<br>
-
----
 
 ### `01` &nbsp; WHO I AM
 
@@ -77,8 +73,6 @@ I'm not just building the future. I'm building a future that's absolutely mental
 ```
 
 </div>
-
----
 
 <table>
 <tr>
