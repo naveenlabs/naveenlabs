@@ -144,7 +144,7 @@ Learning fast. Sharing faster. Either direction works. I'm built for both no lie
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-HIT_ME_UP-ff0040?style=for-the-badge&labelColor=0d1117)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/EMAIL-HIT_ME_UP-ff0040?style=for-the-badge&labelColor=0d1117)](mailto:naveenwork1718@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-9d00ff?style=for-the-badge&labelColor=0d1117)](https://linkedin.com)
 
 </div>
