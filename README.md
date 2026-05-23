@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejN2M2l0ZjV0MjM1cXRtM3UzZWN1b29nOW01Z25oaHZ5cDYxY2o3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V2pVW29VjWS9fQbVve/giphy.gif" width="100%" height="auto" alt="Banner">
+<video src="assets/banner1.mp4" width="100%" autoplay muted loop></video>
 </div>
 
 ---
