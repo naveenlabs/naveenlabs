@@ -1,7 +1,5 @@
 <div align="center">
-
-![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejN2M2l0ZjV0MjM1cXRtM3UzZWN1b29nOW01Z25oaHZ5cDYxY2o3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V2pVW29VjWS9fQbVve/giphy.gif)
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejN2M2l0ZjV0MjM1cXRtM3UzZWN1b29nOW01Z25oaHZ5cDYxY2o3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V2pVW29VjWS9fQbVve/giphy.gif" width="100%" height="auto" alt="Banner">
 </div>
 
 ---
@@ -43,19 +41,23 @@ Gaming • Music Production • Research • System Design
 
 ---
 
-## `> CONNECT`
+## `> OPEN FOR`
 
-[![GitHub](https://img.shields.io/badge/GITHUB-naveenlabs-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/naveenlabs)
-[![Email](https://img.shields.io/badge/EMAIL-REACH_OUT-ff0040?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-9d00ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com)
+[![Collaboration](https://img.shields.io/badge/COLLABORATION-LET'S_BUILD-00f0ff?style=flat-square&labelColor=000000)](https://github.com/naveenlabs)
+[![Opportunities](https://img.shields.io/badge/OPPORTUNITIES-BRING_THEM-ff0040?style=flat-square&labelColor=000000)](mailto:your.email@example.com)
+[![Discussion](https://img.shields.io/badge/DISCUSSION-ALWAYS-9d00ff?style=flat-square&labelColor=000000)](https://linkedin.com)
 
 ---
 
-## `> STATS`
+## `> ACTIVITY`
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenlabs&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00f0ff&icon_color=ff0040&text_color=ffffff&include_all_commits=true&count_private=true)
+
+</div>
+
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenlabs&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00f0ff&text_color=ffffff)
 
