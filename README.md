@@ -1,5 +1,5 @@
 <div align="center">
-<video src="assets/banner1.mp4" width="100%" autoplay muted loop></video>
+<img src="assets/banner1.gif" width="100%" height="auto" alt="Banner">
 </div>
 
 ---
