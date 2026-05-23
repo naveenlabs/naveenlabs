@@ -2,25 +2,45 @@
 <img src="Assets/banner-1.gif" width="100%" height="auto" alt="Banner">
 </div>
 
----
+<div align="center">
 
-## `> WHO I AM`
+## **≡ RESUME (UNFILTERED) ≡**
 
-**Dhanarasu Naveen** — AI/ML Engineer | Computer Science @ University of London (SIM Singapore)
-
-Building intelligent systems that refuse to stay contained.
+</div>
 
 ---
 
-## `> WHAT I DO`
+<div style="background-color: #0a0e27; border-left: 4px solid #00f0ff; border-right: 4px solid #ff0040; border-radius: 8px; padding: 25px; margin: 20px 0;">
 
-Currently architecting deep learning models and full-stack applications. Specializing in neural networks, audio DSP, game physics, and systems engineering.
+### **WHO I AM**
+
+**AI/ML Engineer** | **Code Terrorist** | **Caffeine-Powered Menace to Society**
+
+Bro I literally teach machines to be smarter than you while you're scrolling TikTok. It's giving God complex energy fr fr. They told me I was dangerous. I said "slay" and kept going. No cap bestie.
 
 ---
 
-## `> WHY I BUILD`
+### **WHAT I DO**
 
-Intelligence should be engineered, not explained away.
+**My Addiction:** Coffee ☕ (it's not even coffee anymore it's just espresso)
+
+**My Religion:** Neural Networks 🧠 (they're my children now)
+
+**Currently Breaking:** Deep Learning • TensorFlow/PyTorch going absolutely CRAZY • NLP (emotions are SCREAMING) • Real-time Audio DSP (it slaps different) • Game Physics (gravity? don't know her) • Intrusion Detection (catching hackers like Pokémon) • Your Expectations • The Laws of Physics • Common Sense
+
+Build it. BREAK IT. Fix it in the most unhinged way possible. Break it AGAIN. Somehow it works??? My code's literally schizophrenic fr — sometimes it's mid, sometimes it's the most brilliant thing you've ever seen. Literally Schrödinger's Code no lie.
+
+---
+
+### **WHY I BUILD**
+
+Bro I CANNOT be stopped. Like literally cannot. One day I woke up and said "imma teach machines to think better than humans" and now I'm out here ARCHITECTING THE FUTURE while running on 4 espressos, 2 hours of sleep, and pure spite. It's the undiagnosed ADHD mixed with autism energy fr fr.
+
+The world NEEDS someone deranged enough to try the impossible. That's literally me. I'm doing it. Right now. The future's gonna be absolutely UNHINGED and it's lowkey my fault and I'm NOT apologizing bestie.
+
+I'm not just building the future. I'm building a future that's absolutely mental. And I'm doing it ANYWAY no matter what.
+
+</div>
 
 ---
 
