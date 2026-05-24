@@ -18,7 +18,7 @@
 
 > **AI/ML Engineer** &nbsp;|&nbsp; **Code Terrorist** &nbsp;|&nbsp; **Caffeine-Powered Menace to Society**
 
-Bro I literally teach machines to be smarter than you while you're scrolling TikTok. It's giving God complex energy fr fr. They told me I was dangerous. I said "slay" and kept going. No cap bestie.
+Bro I literally teach machines to be smarter than you while you're scrolling TikTok. It's giving God complex energy fr. They told me I was dangerous. I said "slay" and kept going. No cap bestie.
 
 ---
 
